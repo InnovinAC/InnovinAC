@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @InnovinAC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+I'm Innovin Anuonye, a full stack web & software developer, with substantial knowledge and experience in front end and backend development frameworks.
+
+𝐒𝐤𝐢𝐥𝐥𝐬:
+
+HTML, CSS, Bootstrap Javascript, jQuery, ReactJs, Git, PHP, Laravel, Python, Wordpress, SQL
+
+
+- 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me: innovinanuonye@gmail.com
-<!---
-InnovinAC/InnovinAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
