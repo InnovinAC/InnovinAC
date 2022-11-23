@@ -1,20 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"/>
-</div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=InnovinAC&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+<img src="https://komarev.com/ghpvc/?username=InnovinAC&style=flat-circle&color=red" alt=""/>
+  </div>
 
 
 <h1>
@@ -62,7 +49,7 @@ HTML, CSS, Bootstrap, Javascript, jQuery, NodeJs, Express.Js, EJS, Git, PHP, Lar
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/innovinanuonye/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bz0x7%2F7A5Q0GKjj7BgKoQxw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/innovin">
