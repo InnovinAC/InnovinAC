@@ -18,6 +18,8 @@ I am full stack web & software developer <img src="https://media.giphy.com/media
 
 - 💡 I have substantial knowledge and experience in frontend and backend development frameworks.
 - 🔦 In my free time, I try to help StackOverflow users with bugs in their code.
+- I code certain stuff for fun as well :)
+- I love to learn new cool stuff
 
 ---
 
