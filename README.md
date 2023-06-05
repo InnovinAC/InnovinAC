@@ -10,8 +10,8 @@
 </h1>
 
 <h2>I'm led to believe that you are not a robot 👀</h2>
+<p><em>Just kidding...</em></p>
 
----
 
 ### 👨‍💻 About Me :
 I am full stack web & software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
