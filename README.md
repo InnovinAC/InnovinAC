@@ -47,7 +47,9 @@ HTML, CSS, Bootstrap, Javascript, jQuery, NodeJs, Express.Js, EJS, Git, PHP, Lar
     <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
    <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Springboot" alt="Springboot" width="40" height="40"/>&nbsp;
+  <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    
+    
   
   </div>
 
