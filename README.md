@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2>I'm led to believe that you are not a robot 👀</h2>
+<h2>I'm led to believe that you are not a robot or AI 👀</h2>
 <p><em>Just kidding...</em></p>
 
 
