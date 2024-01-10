@@ -79,5 +79,6 @@ HTML, CSS, Bootstrap, Javascript, jQuery, NodeJs, Express.Js, EJS, Git, PHP, Lar
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InnovinAC&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InnovinAc&theme=highcontrast&border_radius=5&card_width=498)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InnovinAC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
