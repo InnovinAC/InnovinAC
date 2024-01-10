@@ -14,10 +14,14 @@
 
 
 ### 👨‍💻 About Me :
-I am full stack web & software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+I am full stack web & software developer from Nigeria
+<p>Most of the time you will find me like this:</p>
+<br>
+<div style="display: flex; justify-content: center; align-items: center;"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/></div>
+<br>
 
 - 💡 I have substantial knowledge and experience in frontend and backend development frameworks.
-- 🔦 In my free time, I try to help StackOverflow users with bugs in their code.
+- 🔦 In my free time, I try to help people fix bugs in their code.
 - I code certain stuff for fun as well :)
 - I love to learn new cool stuff
 
