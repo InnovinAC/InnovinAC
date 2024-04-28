@@ -12,77 +12,97 @@
 <h2>I'm led to believe that you are not a robot or AI 👀</h2>
 <p><em>Just kidding...</em></p>
 
+<h2 align="center">Hi 👋! My name is Innovin Anuonye and I'm a Software Engineer, from Nigeria</h2>
 
-### 👨‍💻 About Me :
-I am full stack web & software developer from Nigeria
-<p>Most of the time you will find me like this:</p>
-<br>
-<div style="display: flex; justify-content: center; align-items: center;"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/></div>
-<br>
+###
 
-- 💡 I have substantial knowledge and experience in frontend and backend development frameworks.
-- 🔦 In my free time, I try to help people fix bugs in their code.
-- I code certain stuff for fun as well :)
-- I love to learn new cool stuff
+<p align="left">💡 I have substantial knowledge and experience in frontend and backend development frameworks.<br>🔦 In my free time, I try to help people fix bugs in their code.<br>I code certain stuff for fun as well :)<br>I love to learn new cool stuff</p>
 
----
+###
 
-### :hammer_and_wrench: Languages and Technologies :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=innovinac&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innovinac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-HTML, CSS, Bootstrap, Javascript, jQuery, NodeJs, Express.Js, EJS, Git, PHP, Laravel, Python, Wordpress, SQL
+###
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS 3" alt="CSS 3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
-   <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <img style="background-color: #ffffff" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    
-    
-  
-  </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+</div>
 
+###
 
-- 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me: 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/innovinanuonye/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bz0x7%2F7A5Q0GKjj7BgKoQxw%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="left">
+  <a href="https://instagram.com/innovin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://instagram.com/innovin">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/innovinanuonye">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="mailto:innovinanuonye@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://linkedin.com/in/innovinanuonye" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-- On Stack Overflow :
-<a href="https://stackoverflow.com/users/14357856/innovin"><img src="https://stackoverflow.com/users/flair/14357856.png" width="208" height="58" alt="profile for Innovin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Innovin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+###
 
+<img align="right" height="150" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  />
 
----
+###
 
-### :fire: My Stats :
+<p align="right">Most of the time you will see me like this:</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=InnovinAc&theme=highcontrast&border_radius=5&card_width=498)](https://git.io/streak-stats)
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InnovinAC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/innovinac/innovinac/output/snake.svg" alt="Snake animation" />
+
+###
+- 💞️ I’m looking to collaborate on any project.
