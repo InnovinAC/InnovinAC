@@ -5,14 +5,14 @@
 
 
 <h1>
-  hey there human.
+  Hey there human.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h2>I'm led to believe that you are not a robot or AI 👀</h2>
 <p><em>Just kidding...</em></p>
 
-<h2 align="center">Hi 👋! My name is Innovin Anuonye and I'm a Software Engineer, from Nigeria</h2>
+<h2 align="center">Hi 👋! My name is Innovin Anuonye and I'm a Software Engineer and a Web Solution Developer</h2>
 
 ###
 
@@ -27,6 +27,7 @@
 
 ###
 
+<p>Technologies I have worked with:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -77,6 +78,12 @@
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="30" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue Js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="Vuetify logo"  />
 </div>
 
 ###
@@ -108,3 +115,4 @@ My stats:
 
 ###
 - 💞️ I’m looking to collaborate on any project.
+- I am working on my <a href="https://innovin.dev">website</a>
