@@ -12,7 +12,7 @@
 <h2>I'm led to believe that you are not a robot or AI 👀</h2>
 <p><em>Just kidding...</em></p>
 
-<h2 align="center">Hi 👋! My name is Innovin Anuonye and I'm a Software Engineer and a Web Solution Developer</h2>
+<h2 align="center">Hi 👋! My name is <a href="https://innovin.dev">Innovin Anuonye</a> and I'm a Software Engineer and a Web Solution Developer</h2>
 
 ###
 
