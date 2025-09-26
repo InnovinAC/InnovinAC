@@ -6,7 +6,7 @@
 
 ###
 
-<p align="right">This is me right now, saving the world one line of code at a time:</p>
+<p align="right">This is me right now, changing the world one line of code at a time:</p>
 
 ###
 
